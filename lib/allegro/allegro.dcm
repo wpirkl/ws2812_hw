@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ACS724
-D Automotive-Grade, Galvanically Isolated Current Sensor IC With Common-Mode Field Rejection in a Small-Footprint SOIC8 Package
-F dataheets/ACS724.pdf
-$ENDCMP
-#
-#End Doc Library
